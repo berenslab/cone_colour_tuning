@@ -8,3 +8,4 @@ A list of the folders:
 - log_opsins_Fig1f_f_S4: analysis of the opsin curves: first fitted a log transform to the HC block condition (Fig.1f and Fig.2b), then the other way round for calculating the data distribution (Fig. S4)
 - differences_Fig2d-h: Analysis of significant differences between the cone recordings under different conditions. Also includes calculation of the zero crossings for green and blue cone recordings and comparisons between retinal regions (cf. Fig.1g).
 - HC_voltage_analysis_Fig4h-j: Analysis and clustering of the HC voltage recordings.
+- modelling: includes the cone-HC interaction model and the tools for the SBI method and all analysis. See the readme file in this folder for more information.
