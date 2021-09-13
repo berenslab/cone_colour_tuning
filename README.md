@@ -1,3 +1,8 @@
+
+
+[![DOI](https://zenodo.org/badge/306035913.svg)](https://zenodo.org/badge/latestdoi/306035913)
+
+
 # Ancestral circuits for vertebrate colour vision emerge at the first retinal synapse
 
 This repository includes the code of the model and the statistical analysis for the experimental recordings of the paper: 
