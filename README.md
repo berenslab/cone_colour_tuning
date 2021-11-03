@@ -7,7 +7,9 @@
 
 This repository includes the code of the model and the statistical analysis for the experimental recordings of the paper: 
 
-*Ancestral circuits for vertebrate colour vision emerge at the first retinal synapse.* Takeshi Yoshimatsu, Philipp Bartel, Cornelius Schröder, Filip K Janiak, Francois St-Pierre, Philipp Berens, Tom Baden.
+*Ancestral circuits for vertebrate colour vision emerge at the first retinal synapse.* Takeshi Yoshimatsu, Philipp Bartel, Cornelius Schröder, Filip K Janiak, Francois St-Pierre, Philipp Berens, Tom Baden. *Science Advances* (2021).
+
+(Science Advances: https://www.science.org/doi/epdf/10.1126/sciadv.abj6815)
 
 (biorxiv: https://www.biorxiv.org/content/10.1101/2020.10.26.356089v2.full)
 
